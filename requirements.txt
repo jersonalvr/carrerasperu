@@ -1,8 +1,8 @@
-streamlit==1.24.1
-streamlit-option-menu==0.3.12
-pandas==2.0.1
-plotly==5.15.0
-openpyxl==3.1.2
-requests==2.31.0
-statsmodels==0.14.0
-pillow==6.2.0
+streamlit
+streamlit-option-menu
+pandas
+plotly
+openpyxl
+requests
+statsmodels
+pillow
